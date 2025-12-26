@@ -30,9 +30,6 @@ This repository collects awesome papers about **Story Generation / Storytelling*
 
 Papers are listed chronologically (most recent first).
 
-**Thank you for the stars!** We're continuously updating with the latest research. Cheers! 🍻
-
-
 <!--
 ## Related Repository
 |**[Awesome-LLM-Characters](https://github.com/yingpengma/Awesome-LLM-Characters)**|
@@ -156,4 +153,6 @@ Eg. `ACL-20XX` **Title** [paper] [code] .. [authors]  [![](https://img.shields.i
 - [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) offers access to a dataset containing movie plot summaries and related metadata.
 - [Scifi TV Show Plot Summaries & Events](https://huggingface.co/datasets/lara-martin/Scifi_TV_Shows) is a collection of plot synopses for long-running (80+ episodes) science fiction TV shows, sourced from Fandom.com wikis.
 
+
 ![Star History Chart](https://api.star-history.com/svg?repos=yingpengma/Awesome-Story-Generation&type=Date)
+Forked from : yingpengma repo
